@@ -1,5 +1,3 @@
-My skype ID: live:.cid.3fcf87120bc6b566
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
